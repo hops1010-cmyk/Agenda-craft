@@ -1,0 +1,6 @@
+{
+  "name": "AgendaCraft - AI Meeting Agenda Builder",
+  "description": "Upload documents to generate structured meeting agendas with interactive timeline views, stakeholder mapping, topic allocations, and AI meeting assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
